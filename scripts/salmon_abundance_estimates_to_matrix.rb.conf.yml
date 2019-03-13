@@ -1,0 +1,14 @@
+names:
+- DRR168786
+- DRR168787
+- DRR168788
+- DRR168789
+- DRR168790
+- DRR168791
+- DRR168792
+- DRR168793
+- DRR168794
+
+outdir_prefix: "salmon_out_"
+
+
